@@ -1,0 +1,11 @@
+body{
+    background-image: linear-gradient(rgb(96, 108, 56),rgb(237, 242, 203));
+    height: 100vh;
+}
+.navbar{
+    color: black;
+    display: flex;
+}
+a:hover{
+    color: aliceblue;
+}
